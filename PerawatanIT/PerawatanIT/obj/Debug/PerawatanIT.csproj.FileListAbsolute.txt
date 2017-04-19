@@ -1,0 +1,62 @@
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.exe
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.pdb
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmInstallation.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMain.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMasterData.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatI.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatP.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupItem.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.Properties.Resources.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csproj.GenerateResource.Cache
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.exe
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.pdb
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csprojResolveAssemblyReference.cache
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmTrouble.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmConfigComputer.resources
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\bin\Debug\MySql.Data.dll
+D:\MyDocument\Visual Studio 2013\Projects\PerawatanIT\PerawatanIT\bin\Debug\MySql.Data.xml
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.exe
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.pdb
+G:\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.exe
+G:\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.pdb
+G:\PerawatanIT\PerawatanIT\bin\Debug\MySql.Data.xml
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csprojResolveAssemblyReference.cache
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmConfigComputer.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmEvaluasi.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmHasilPerawatan.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmInstallation.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmLogin.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMain.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMasterData.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatI.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatP.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupItem.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmPerawatan.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmRiwayatMasalah.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmTrouble.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.Properties.Resources.resources
+G:\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csproj.GenerateResource.Cache
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.exe
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\bin\Debug\PerawatanIT.pdb
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\bin\Debug\MySql.Data.dll
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmConfigComputer.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmEvaluasi.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmHasilPerawatan.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmInstallation.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmLogin.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMain.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMasterData.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatI.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupCatP.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmSetupItem.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMaintenance.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmPerawatan.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.FrmRiwayatMasalah.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmTrouble.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmViewData.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.Properties.Resources.resources
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csproj.GenerateResource.Cache
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.exe
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.pdb
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMMER\Google Drive\PerawatanIT\PerawatanIT\PerawatanIT\obj\Debug\PerawatanIT.frmMasterInstall.resources
