@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5A58602-1F89-4CAD-85FD-B87F9ECAC942}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PerawatanIT</RootNamespace>
+    <AssemblyName>PerawatanIT</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.0\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class\category.cs" />
+    <Compile Include="class\computers.cs" />
+    <Compile Include="class\connection.cs" />
+    <Compile Include="Form\frmConfigComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmConfigComputer.Designer.cs">
+      <DependentUpon>frmConfigComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEvaluasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEvaluasi.Designer.cs">
+      <DependentUpon>FrmEvaluasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHasilPerawatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHasilPerawatan.Designer.cs">
+      <DependentUpon>FrmHasilPerawatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmInstallation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmInstallation.Designer.cs">
+      <DependentUpon>frmInstallation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMasterData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMasterData.Designer.cs">
+      <DependentUpon>frmMasterData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\installation.cs" />
+    <Compile Include="class\items.cs" />
+    <Compile Include="class\listitem.cs" />
+    <Compile Include="class\maintenance.cs" />
+    <Compile Include="Form\frmSetupCatI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSetupCatI.Designer.cs">
+      <DependentUpon>frmSetupCatI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSetupCatP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSetupCatP.Designer.cs">
+      <DependentUpon>frmSetupCatP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSetupItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSetupItem.Designer.cs">
+      <DependentUpon>frmSetupItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenance.Designer.cs">
+      <DependentUpon>frmMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasterInstall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasterInstall.Designer.cs">
+      <DependentUpon>frmMasterInstall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPerawatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPerawatan.Designer.cs">
+      <DependentUpon>FrmPerawatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRiwayatMasalah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRiwayatMasalah.Designer.cs">
+      <DependentUpon>FrmRiwayatMasalah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTrouble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTrouble.Designer.cs">
+      <DependentUpon>frmTrouble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmViewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmViewData.Designer.cs">
+      <DependentUpon>frmViewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="class\trouble.cs" />
+    <Compile Include="class\troubles.cs" />
+    <Compile Include="class\users.cs" />
+    <EmbeddedResource Include="Form\frmConfigComputer.resx">
+      <DependentUpon>frmConfigComputer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEvaluasi.resx">
+      <DependentUpon>FrmEvaluasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHasilPerawatan.resx">
+      <DependentUpon>FrmHasilPerawatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmInstallation.resx">
+      <DependentUpon>frmInstallation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMasterData.resx">
+      <DependentUpon>frmMasterData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSetupCatI.resx">
+      <DependentUpon>frmSetupCatI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSetupCatP.resx">
+      <DependentUpon>frmSetupCatP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSetupItem.resx">
+      <DependentUpon>frmSetupItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenance.resx">
+      <DependentUpon>frmMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasterInstall.resx">
+      <DependentUpon>frmMasterInstall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPerawatan.resx">
+      <DependentUpon>FrmPerawatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRiwayatMasalah.resx">
+      <DependentUpon>FrmRiwayatMasalah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTrouble.resx">
+      <DependentUpon>frmTrouble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmViewData.resx">
+      <DependentUpon>frmViewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
